@@ -6,13 +6,13 @@
   [原始教程网址](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/第二章项目集合/第二章：第一节数据清洗及特征处理.ipynb)
   
  #### <font color = blue>第一章和第二章学习知识点的思维导图如下所示：</font>
-  ![学习知识点导图](image\Thinking-Fig.png)
+  ![学习知识点导图](Thinking-Fig.png)
 
  通过markdown方式，插入图片导入本地图片如上图第一种方法。
  第二种方式：使用 < img src > 语句插入本地图片，其中src为图片路径,需要先建文件夹img,放在运行程序目录下。
  img src="image\Thinking-Fig.png" width=320, heigth=240
  
- <img src="image\Thinking-Fig2.png">
+ <img src="Thinking-Fig2.png">
 
 
 ```python
