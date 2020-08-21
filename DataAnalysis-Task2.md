@@ -12,7 +12,7 @@
  第二种方式：使用 < img src > 语句插入本地图片，其中src为图片路径,需要先建文件夹img,放在运行程序目录下。
  img src="image\Thinking-Fig.png" width=320, heigth=240
  
- <img src="Thinking-Fig2.png">
+ <img src="https://img-blog.csdnimg.cn/20200821205630737.png">
 
 
 ```python
